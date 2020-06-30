@@ -3,4 +3,3 @@
 <p>email : {{$dados->inputEmail1}}</p>
 <p>Telefone : {{$dados->inputTelefone}}</p>
 <p>Mensagem : {{$dados->inputMensagem}}</p>
-<!-- <p>Nome : {{$dados->nome}}</p> -->
